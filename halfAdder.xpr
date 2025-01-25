@@ -4,7 +4,7 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/C27Nathaniel.Burleso/ece281/ece281-ice2/halfAdder.xpr">
+<Project Product="Vivado" Version="7" Minor="68" Path="C:/ECE281/Digital/ece281/ece281-ice2/halfAdder.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="d3f0eb282aa54000a3a78d28b4f8514c"/>
